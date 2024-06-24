@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ptr/clock-in.png</file>
+        <file>ptr/clock-in-2.png</file>
+        <file>ptr/window-close.png</file>
+        <file>ptr/window-hy.png</file>
+        <file>ptr/window-minimize.png</file>
+        <file>ptr/window-big.png</file>
+        <file>ptr/logo.ico</file>
+        <file>ptr/window-more.png</file>
+        <file>ptr/video.png</file>
+        <file>ptr/video-2.png</file>
+        <file>ptr/face_input.png</file>
+        <file>ptr/sreach.png</file>
+        <file>ptr/sreach-2.png</file>
+        <file>ptr/loop.png</file>
+        <file>ptr/fail.png</file>
+        <file>ptr/success.png</file>
+        <file>ptr/root.png</file>
+        <file>ptr/root-2.png</file>
+        <file>ptr/edit.png</file>
+        <file>ptr/edit-2.png</file>
+        <file>ptr/clock_record.png</file>
+        <file>ptr/clock_record-2.png</file>
+        <file>ptr/down.png</file>
+        <file>ptr/up.png</file>
+        <file>ptr/name.png</file>
+        <file>ptr/name-2.png</file>
+        <file>ptr/time.png</file>
+        <file>ptr/time-2.png</file>
+        <file>ptr/type.png</file>
+        <file>ptr/type-2.png</file>
+        <file>ptr/group.png</file>
+        <file>ptr/group2.png</file>
+        <file>ptr/search.png</file>
+        <file>ptr/delete.png</file>
+    </qresource>
+</RCC>
